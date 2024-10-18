@@ -1,2 +1,1 @@
-# MathML
- Fundamental Mathematics for ML
+# Mathematics Foundation for AI
